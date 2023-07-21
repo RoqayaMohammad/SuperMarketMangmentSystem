@@ -1,5 +1,7 @@
 # SuperMarketMangmentSystem
 USING: WinForms, SQLServer, ADO.NET
+
+Forms: Splash - Login - Products - Categories - Sellers - Selling
 - Two Roles: Admin, Seller
 - ADMIN : Have Access To Main CRUD Operations for : Products, Categories, Sellers
 - SELLER : Have Access To The Selling Form
